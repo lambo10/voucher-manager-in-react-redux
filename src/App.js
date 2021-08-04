@@ -1,7 +1,7 @@
-import logo from './logo.svg';
 import './App.css';
 import { useDispatch, useSelector } from 'react-redux';
-import {increment, signIn, loginModal_action} from './actions'
+// import {increment, signIn, loginModal_action} from './actions'
+import {loginModal_action} from './actions'
 import './my_css/bootstrap.css'
 import {LoginModalcomp} from './components/modals/loginModal'
 
