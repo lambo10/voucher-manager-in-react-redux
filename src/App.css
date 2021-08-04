@@ -1,0 +1,64 @@
+.right_div{
+  background-color: #E6C8B0;
+  padding: 30px;
+}
+.left_div{
+  background-color: #7C7C86;
+  text-align: center;
+  padding: 10px;
+}
+.left_d_component1{
+  display: inline-block;
+  padding: 10px;
+  background-color: #E6C8B0;
+  border: none;
+}
+.left_d_component2{
+  display: inline-block;
+  text-align: left;
+  color: #E6C8B0;
+  font-size: 21px;
+  border: solid 10px #E6C8B0;
+  padding: 20px;
+}
+
+.voucher_container{
+  padding: 10px 20px 10px 20px;
+  background-color: #BCB8B7;
+  border: solid 10px #7C7C86;
+}
+.tiny_dash{
+  background: black;
+  height: 8px;
+  width: 50px;
+}
+.card_header1{
+  padding-top: 10px;
+  font-size: 21px;
+}
+.card_header2{
+  padding-top: 0px;
+  font-size: 21px;
+}
+.card_header3{
+  padding-top: 10px;
+  font-size: 23px;
+}
+.txt1{
+  padding-top: 40px;
+  font-size: 18px;
+}
+.txt2{
+  padding-top: 5px;
+  font-size: 18px;
+}
+.txt3{
+  padding-top: 5px;
+  font-size: 20px;
+}
+.sizebox1{
+  height: 130px;
+}
+.sizebox2{
+  height: 70px;
+}
