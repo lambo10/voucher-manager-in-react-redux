@@ -6,8 +6,8 @@ import './my_css/bootstrap.css'
 import {LoginModalcomp} from './components/modals/loginModal'
 
 function App() {
-  const counter = useSelector(state => state.counter);
-  const isLogged = useSelector(state => state.isLogged);
+  // const counter = useSelector(state => state.counter);
+  // const isLogged = useSelector(state => state.isLogged);
   const loginModal = useSelector(state => state.loginModal);
   
   const dispatch = useDispatch();
